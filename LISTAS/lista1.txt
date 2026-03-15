@@ -1,0 +1,39 @@
+1. Segundo a aula, a Inteligência Artificial pode ser entendida como:
+
+C) Sistemas capazes de executar tarefas que exigem inteligência humana
+
+2. Para o professor, grande parte do que é chamado de IA é:
+
+B) Estatística aplicada com outro nome
+
+3. O aprendizado supervisionado é caracterizado por:
+
+C) Dados de entrada associados a saídas corretas
+
+4. O aprendizado não supervisionado tem como principal objetivo:
+
+C) Agrupar dados por similaridade
+
+5. aprendizado por reforço funciona com base em:
+
+C) Recompensas e punições
+
+6. O algoritmo KNN classifica um novo exemplo com base em:
+
+B) Os K vizinhos mais próximos
+
+7. Recomenda-se escolher K como número ímpar para:
+
+B) Evitar empates na votação
+
+8. A biblioteca principal utilizada para algoritmos de Machine Learning na aula foi:
+
+C) Scikit-learn
+
+9. Segundo a discussão em aula, a indústria de jogos contribuiu para a IA principalmente por meio:
+
+C) Do avanço das GPUs
+
+10. Na hierarquia apresentada na aula, a ordem correta é:
+
+B) IA → Machine Learning → Redes Neurais → Deep Learning
